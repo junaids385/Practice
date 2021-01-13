@@ -1,2 +1,0 @@
-# Practice
-Job Seeker Website
